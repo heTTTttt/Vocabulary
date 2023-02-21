@@ -4,7 +4,7 @@ public class FileData {
     private String path;
 
     public FileData(String fileName, long size, String path) {
-        fileName = fileName;
+        this.fileName = fileName;
         this.size = size;
         this.path = path;
     }
