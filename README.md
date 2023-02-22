@@ -23,3 +23,5 @@
 Шлях: /path/to/file
 
 FileData: {name: ..., size: ..., path: /another/path/}
+
+додав кілька слів до файлу file1.txt для наочності зміни розміру файлу за допомогою методу getTotalSpace();
